@@ -1,0 +1,7 @@
+#Fri Sep 29 16:08:10 COT 2017
+base.0=I\:\\Download\\Others\\Reto Capturer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c15c6319815892b85415f1c110cea5d506f046df
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=I\:\\Download\\Others\\Reto Capturer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3e4b2e6cb7303114d67a2fdcbccdb5eb4c923ac3\\classes.dex
+base.1=I\:\\Download\\Others\\Reto Capturer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3e4b2e6cb7303114d67a2fdcbccdb5eb4c923ac3
+file.0=I\:\\Download\\Others\\Reto Capturer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c15c6319815892b85415f1c110cea5d506f046df\\classes.dex

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edwin\.android\build-cache\77606d7ce9be9cb22e13b5cc098d150c4562dd08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a6b765967c8091ebb45f2c02972a2fa9cba5dd87">
+        <dex dex="I:\Download\Others\Reto Capturer\build\intermediates\pre-dexed\debug\classes_469acd409171b2fb07b36cefe5d1c67225536577.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edwin\.android\build-cache\d80c89366aed257661341ad5dfa39f18094d1c6c\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="I:\Download\Others\Reto Capturer\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a3cd50a5084b6bf6bbb08bae2bc4affef0d3714d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edwin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="I:\Download\Others\Reto Capturer\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_cb9f0626a52a2bacd4098d93801a3f9102c5696e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edwin\.android\build-cache\35ab8ee5748daf85d706cc413c84f2a08a6071e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="I:\Download\Others\Reto Capturer\build\intermediates\pre-dexed\debug\classes_cb70d5140c1997c0e723526aac259df6bb350deb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edwin\.android\build-cache\35ab8ee5748daf85d706cc413c84f2a08a6071e8\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="I:\Download\Others\Reto Capturer\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_c2c214ba3981f93ab77251946ba46d60a800fbab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Download\Others\Reto Capturer\libs\Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="I:\Download\Others\Reto Capturer\build\intermediates\transforms\dex\debug\folders\1000\2\Vuforia_c88cc976a4317a5066bc966d58119f852c9206e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\Download\Others\Reto Capturer\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="I:\Download\Others\Reto Capturer\build\intermediates\pre-dexed\debug\Vuforia_c88cc976a4317a5066bc966d58119f852c9206e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edwin\.android\build-cache\d80c89366aed257661341ad5dfa39f18094d1c6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="I:\Download\Others\Reto Capturer\build\intermediates\pre-dexed\debug\classes_47caac394abe358f79d1e0a74951a8ee838e0a77.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Download\Others\Reto Capturer\libs\VuforiaUnityPlayer.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="I:\Download\Others\Reto Capturer\build\intermediates\transforms\dex\debug\folders\1000\2\VuforiaUnityPlayer_1ac82588b3556fbab9c77daf631f966436b0efb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\Download\Others\Reto Capturer\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="I:\Download\Others\Reto Capturer\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_1ac82588b3556fbab9c77daf631f966436b0efb3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Download\Others\Reto Capturer\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0dacd8b3d7141bdd1320be8190492ce98a9361fc">
+        <dex dex="I:\Download\Others\Reto Capturer\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_aada8f27f0e9cd3b917cd9f38fc72c53f10f1c9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Download\Others\Reto Capturer\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f0ab74c846d3540713d6ce9e4b2471f7a19ba1c3">
+        <dex dex="I:\Download\Others\Reto Capturer\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3e4b2e6cb7303114d67a2fdcbccdb5eb4c923ac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Download\Others\Reto Capturer\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="I:\Download\Others\Reto Capturer\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c15c6319815892b85415f1c110cea5d506f046df\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\Download\Others\Reto Capturer\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0dacd8b3d7141bdd1320be8190492ce98a9361fc">
+        <dex dex="I:\Download\Others\Reto Capturer\build\intermediates\pre-dexed\debug\unity-classes_aada8f27f0e9cd3b917cd9f38fc72c53f10f1c9f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="N1_01_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_14_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_07_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_06_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N2_14_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N2_07_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N2_06_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N2_10_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N1_07_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_16_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_08_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N2_16_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_04_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N2_12_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N1_06_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N1_05_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N1_04_Marcador" size="1095.000000 1094.000000" />
+    <ImageTarget name="N1_03_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N1_02_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_17_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_15_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_03_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_02_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_13_Marcador" size="1095.000000 1094.000000" />
+    <ImageTarget name="N3_12_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_11_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_10_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_09_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_05_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N3_01_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N2_17_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N2_15_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N2_13_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N2_11_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N2_09_Marcador" size="1095.000000 1094.000000" />
+    <ImageTarget name="N2_08_Marcador" size="1095.000000 1095.000000" />
+    <ImageTarget name="N2_05_Marcador" size="1095.000000 1094.000000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "I:\\Download\\Others\\Reto Capturer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "I:\\Download\\Others\\Reto Capturer\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "I:\\Download\\Others\\Reto Capturer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image.xml",
+        "source": "I:\\Download\\Others\\Reto Capturer\\src\\main\\res\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "I:\\Download\\Others\\Reto Capturer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_info.xml",
+        "source": "I:\\Download\\Others\\Reto Capturer\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "I:\\Download\\Others\\Reto Capturer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "I:\\Download\\Others\\Reto Capturer\\src\\main\\res\\layout\\activity_splash.xml"
+    }
+]

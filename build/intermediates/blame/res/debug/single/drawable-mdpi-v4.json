@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "I:\\Download\\Others\\Reto Capturer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\buttonstylenormal.xml",
+        "source": "I:\\Download\\Others\\Reto Capturer\\src\\main\\res\\drawable-mdpi\\buttonstylenormal.xml"
+    },
+    {
+        "merged": "I:\\Download\\Others\\Reto Capturer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\buttonstyleselector.xml",
+        "source": "I:\\Download\\Others\\Reto Capturer\\src\\main\\res\\drawable-mdpi\\buttonstyleselector.xml"
+    },
+    {
+        "merged": "I:\\Download\\Others\\Reto Capturer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edittextstyle.xml",
+        "source": "I:\\Download\\Others\\Reto Capturer\\src\\main\\res\\drawable-mdpi\\edittextstyle.xml"
+    },
+    {
+        "merged": "I:\\Download\\Others\\Reto Capturer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\buttonstyleclicked.xml",
+        "source": "I:\\Download\\Others\\Reto Capturer\\src\\main\\res\\drawable-mdpi\\buttonstyleclicked.xml"
+    }
+]
