@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context="com.UniversidadDelAtlantico.RetoCapturer.InfoActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="52dp"
+                android:layout_marginStart="52dp"
+                android:layout_marginTop="27dp"
+                android:text="@string/instrucciones_generales"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="24sp"  />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="36dp"
+                android:text="@string/_1_sigue_las_indicaciones_del_mapa_y_luego_de_llegar_al_punto_indicado_apunta_la_c_mara_de_tu_dispositivo_al_marcador"
+                android:textColor="@android:color/black"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="27dp"
+                android:text="@string/_2_tomate_una_foto_en_la_que_aparezca_junto_tu_reto_o_en_el_lugar_donde_lo_encontraste"
+                android:textColor="@android:color/black"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="34dp"
+                android:text="@string/_3_responde_las_preguntas_tocando_en_la_pantalla_de_tu_dispositivo_m_vil_la_respuesta_correcta"
+                android:textColor="@android:color/black"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="35dp"
+                android:text="@string/_4_por_ltimo_recuerda_guardar_una_captura_de_pantalla_con_tu_respuesta_y_enviarla_mediante_en_el_espacio_de_tarea_dispuesto_en_la_unidad_4_de_tu_curso_de_c_tedra_universitaria"
+                android:textColor="@android:color/black"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:text="@string/c_semillero_trinity_grupo_de_investigaci_n_en_tic_y_gesti_n_del_conocimiento_enl_ce"
+                android:textColor="@android:color/black"
+                android:textSize="13sp" />
+
+            <Button
+                android:id="@+id/start"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="13dp"
+                android:background="@drawable/buttonstyleselector"
+                android:text="@string/empezar"
+                android:textColor="#fff"
+                android:textColorLink="#d07400"
+                android:textSize="24sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
+

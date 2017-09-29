@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reto Capturer</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_splash">Reto Capturer</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="usuario">Correo institucional</string>
+    <string name="title_activity_info">info</string>
+    <string name="instrucciones_generales">Instrucciones Generales</string>
+    <string name="_1_sigue_las_indicaciones_del_mapa_y_luego_de_llegar_al_punto_indicado_apunta_la_c_mara_de_tu_dispositivo_al_marcador">1. Sigue las indicaciones del mapa y luego de llegar al punto indicado apunta la cámara de tu dispositivo al marcador .</string>
+    <string name="_2_tomate_una_foto_en_la_que_aparezca_junto_tu_reto_o_en_el_lugar_donde_lo_encontraste">2. Tomate una foto en la que aparezca junto tu reto o en el lugar donde lo encontraste.</string>
+    <string name="_3_responde_las_preguntas_tocando_en_la_pantalla_de_tu_dispositivo_m_vil_la_respuesta_correcta">3. Responde las preguntas tocando en la pantalla de tu dispositivo móvil la respuesta correcta.</string>
+    <string name="_4_por_ltimo_recuerda_guardar_una_captura_de_pantalla_con_tu_respuesta_y_enviarla_mediante_en_el_espacio_de_tarea_dispuesto_en_la_unidad_4_de_tu_curso_de_c_tedra_universitaria">4. Por último, recuerda guardar una captura de pantalla con tu respuesta y enviarla mediante en el espacio de tarea dispuesto en la Unidad 4 de tu curso de Cátedra Universitaria.</string>
+    <string name="empezar">Empezar</string>
+    <string name="c_semillero_trinity_grupo_de_investigaci_n_en_tic_y_gesti_n_del_conocimiento_enl_ce">© Semillero Trinity - Grupo de Investigación en TIC y gestión del conocimiento, ENL@CE.</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="scam">Escanear Marcador</string>
+</resources>
